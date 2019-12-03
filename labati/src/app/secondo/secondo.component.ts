@@ -11,5 +11,5 @@ export class SecondoComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  ciao2 = 'secondo';
 }

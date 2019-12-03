@@ -11,5 +11,5 @@ export class TerzoComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  ciao3 = 'terzo';
 }

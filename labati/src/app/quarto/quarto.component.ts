@@ -11,5 +11,5 @@ export class QuartoComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  ciao4 = 'quarto';
 }
